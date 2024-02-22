@@ -50,12 +50,11 @@ section {
   font-size: 3vw;
 }
 section p {
-  padding-bottom: .5em;
+  padding-bottom: 0.5em;
 }
 section.normal {
   background-color: white;
   color: black;
-
 }
 section.imagem {
   background-color: rgba(0, 0, 0, 0.306);
@@ -73,12 +72,10 @@ section.imagem p {
 section#img-01 {
   background-image: url("./imagens/background001.jpg");
   background-position: right center;
-  
 }
 section#img-02 {
   background-image: url("./imagens/background002.jpg");
   background-position: right center;
-  
 }
 footer {
   background-color: black;
